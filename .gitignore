@@ -1,0 +1,22 @@
+# PyCharm
+.idea/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Models
+*.pkl
+*.h5
+*.pt
+*.pth
+# Data
+extracted_images*/
+group_photos/
+videos/
+image/
+ocr_class_data/
+
+# OS
+.DS_Store

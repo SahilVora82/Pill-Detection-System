@@ -1,0 +1,7 @@
+video_path,frame_index,tnorm,sharp,glare,imprint,exposure,score,saved_path,edge_path,consensus_path
+./videos\Rosuvastatin_Calcium_1.MOV,69,0.1671,20.92,0.0,0.027,0.0656,0.8188,./extracted_images\Rosuvastatin_Calcium\Rosuvastatin_Calcium_1_f000069.jpg,./extracted_images\Rosuvastatin_Calcium\edges\Rosuvastatin_Calcium_1_f000069_edge.jpg,
+./videos\Rosuvastatin_Calcium_1.MOV,215,0.5206,9.2,0.0,0.0336,0.16,0.7841,./extracted_images\Rosuvastatin_Calcium\Rosuvastatin_Calcium_1_f000215.jpg,./extracted_images\Rosuvastatin_Calcium\edges\Rosuvastatin_Calcium_1_f000215_edge.jpg,
+./videos\Rosuvastatin_Calcium_1.MOV,229,0.5545,9.32,0.0,0.0335,0.1403,0.7734,./extracted_images\Rosuvastatin_Calcium\Rosuvastatin_Calcium_1_f000229.jpg,./extracted_images\Rosuvastatin_Calcium\edges\Rosuvastatin_Calcium_1_f000229_edge.jpg,
+./videos\Rosuvastatin_Calcium_1.MOV,217,0.5254,8.41,0.0,0.0327,0.1594,0.7605,./extracted_images\Rosuvastatin_Calcium\Rosuvastatin_Calcium_1_f000217.jpg,./extracted_images\Rosuvastatin_Calcium\edges\Rosuvastatin_Calcium_1_f000217_edge.jpg,
+./videos\Rosuvastatin_Calcium_1.MOV,231,0.5593,8.7,0.0,0.0334,0.1374,0.7605,./extracted_images\Rosuvastatin_Calcium\Rosuvastatin_Calcium_1_f000231.jpg,./extracted_images\Rosuvastatin_Calcium\edges\Rosuvastatin_Calcium_1_f000231_edge.jpg,
+./videos\Rosuvastatin_Calcium_1.MOV,211,0.5109,8.59,0.0,0.0312,0.1605,0.7551,./extracted_images\Rosuvastatin_Calcium\Rosuvastatin_Calcium_1_f000211.jpg,./extracted_images\Rosuvastatin_Calcium\edges\Rosuvastatin_Calcium_1_f000211_edge.jpg,
